@@ -1,0 +1,12 @@
+.env
+airflow_settings.yaml
+logs/
+__pycache__/
+*.pyc
+
+# local working files, not part of the project
+Task3_Submission.zip
+Airflow_ETL_Report.docx
+CAPTURE_GUIDE.md
+REPORT.md
+screenshots/
